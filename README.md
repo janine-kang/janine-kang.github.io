@@ -1,7 +1,9 @@
 # This is my Portfolio.
 
-> Hey. I'm Jan. Cause I was born in JANuary 
+> Hi, I'm Jan. Cause I'm a JANuary girl. 
 
 
 
-![IMG_1611](README.assets/IMG_1611.jpg)
+
+
+![IMG_4788](README.assets/IMG_4788.jpg)
